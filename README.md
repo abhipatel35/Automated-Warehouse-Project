@@ -58,8 +58,8 @@ The algorithm was validated using various test cases, showcasing significant imp
 1. Install [Clingo](https://potassco.org/clingo/).  
 2. Clone this repository:  
    ```bash
-   git clone https://github.com/abhipatel35/automated-warehouse.git
-   cd automated-warehouse
+   git clone https://github.com/abhipatel35/Automated-Warehouse-Project.git
+   cd Automated-Warehouse-Project
    ```  
 3. Run a test case:  
    ```bash
